@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$restaurent = array( 
+            		"room" => 
+                    			array (
+                                                        "waiter_name"=>"faiz",
+
+                                ),
+                     "detail1" => array (
+                                   "age" => 21,	
+                                ),
+            			);
+       
+       echo $restaurent["room"]["waiter_name"]."<br>";
+        echo $restaurent["detail1"]["age"];
+       
+?>
+
+</body>
+</html>
