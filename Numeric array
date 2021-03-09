@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$m = array (1,2,3,4,5);
+
+echo $m ["4"];
+
+?>
+
+</body>
+</html>
