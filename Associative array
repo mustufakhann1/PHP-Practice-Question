@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$m = array ("mustufa"=>
+						array("age" =>"21"
+                        
+                        )   
+
+);
+echo $m["mustufa"]["age"];
+
+
+?>
+
+</body>
+</html>
