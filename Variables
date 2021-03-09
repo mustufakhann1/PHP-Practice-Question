@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$m = "mustufa";
+echo "$m is a person";
+
+
+?>
+
+</body>
+</html>
