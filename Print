@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$m = "mustufa";
+print "$m";
+
+
+?>
+
+</body>
+</html>
