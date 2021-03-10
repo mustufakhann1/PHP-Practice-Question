@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = 5;
+echo ($a--)."<br>";
+echo ($a++)."<br>";
+echo (++$a)."<br>"; 
+echo (--$a)."<br>"; 
+
+
+?>
+
+</body>
+</html>
