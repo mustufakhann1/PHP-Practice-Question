@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+ define("mustufa",21);
+
+echo constant("mustufa").<"br">;
+echo mustufa;
+?>
+
+</body>
+</html>
