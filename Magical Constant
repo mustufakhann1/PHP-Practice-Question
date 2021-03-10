@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+ define("mustufa",21);
+
+echo __LINE__ ;
+echo __FILE__ ;
+echo __FUNCTION__ ;
+echo __CLASS__ ;
+echo __METHOD__ ;
+
+
+
+?>
+
+</body>
+</html>
