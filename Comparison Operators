@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = 5;
+$b = 10;
+
+
+echo $a == $b;
+echo $a != $b;
+echo $a < $b;
+echo $a > $b;
+echo $a <= $b;
+echo $a >= $b;
+?>
+
+</body>
+</html>
