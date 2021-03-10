@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a =5;
+$b = 10;
+$c;
+
+echo ($c= $a+$b)."<br>";; 
+
+?>
+
+</body>
+</html>
