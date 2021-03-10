@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$length=("mustufa khan");
+
+echo strlen ($length)."<br>";
+
+echo strpos ($length , "khan");
+
+?>
+
+</body>
+</html>
