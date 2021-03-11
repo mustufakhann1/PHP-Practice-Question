@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$mustufa="20"; 
+$father="40";
+
+if ($mustufa=="40")
+				{
+					echo $mustufa / $father;
+				}
+                
+                else{
+                	echo "No operation";
+                }
+
+
+?>
+
+</body>
+</html>
