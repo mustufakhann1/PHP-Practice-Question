@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$c = date("D-d-m-y");
+echo $c;
+
+?>
+</body>
+</html>
