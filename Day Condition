@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$c = date("D");
+if($c=="Mon") {
+	echo "Today is Monday"; 
+} elseif ($c=="Tue") {
+	echo "Today is Tuesday"; 
+}
+elseif ($c=="Wed") {
+	echo "Today is wednesday"; 
+}
+elseif ($c=="Thu") {
+	echo "Today is Thusday"; 
+}
+elseif ($c=="Fri") {
+	echo "Today is Friday"; 
+}
+elseif ($c=="Sat") {
+	echo "Today is Saturday"; 
+}
+elseif ($c=="Sun") {
+	echo "Today is Sunday"; 
+}
+
+?>
+</body>
+</html>
