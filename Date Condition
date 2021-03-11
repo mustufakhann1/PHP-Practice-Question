@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$c = date("d");
+if($c==8) {
+	echo "Today is 8 march"; 
+} elseif ($c=="9") {
+	echo "Today is 9 march"; 
+}
+elseif ($c=="10") {
+	echo "Today is 10 march";  
+}
+elseif ($c=="11") {
+	echo "Today is 11 march"; 
+}
+elseif ($c=="Fri") {
+	echo "Today is Friday"; 
+}
+elseif ($c=="Sat") {
+	echo "Today is Saturday"; 
+}
+elseif ($c=="Sun") {
+	echo "Today is Sunday"; 
+}
+
+?>
+</body>
+</html>
