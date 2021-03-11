@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a=10; 
+$b=15;
+
+if($a==50) {
+	echo "No operation"; 
+} elseif ($a==10) {
+	echo $a/$b;
+}
+elseif ($a==40) {
+	echo "No operation";
+}
+elseif ($b==15) {
+	echo $b/$a;
+}
+elseif ($b==25) {
+	echo "No Operation";
+}
+?>
+</body>
+</html>
