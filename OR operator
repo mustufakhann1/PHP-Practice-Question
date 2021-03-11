@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = "3";
+$b = "6";
+
+echo $a || $b;
+
+
+?>
+
+</body>
+</html>
