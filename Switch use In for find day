@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a= date("D");
+
+switch ($a)
+
+{
+  case "Mon":
+  echo "Today is Monday";
+  
+  break;
+  
+  case "Tue":
+  echo "Today is Tuesday";
+  
+  break;
+  case "Wed":
+  echo "Today is wednesday";
+  
+  break;
+  case "Thu":
+  echo "Today is thursday";
+  
+  break;
+  
+  case "Fri":
+  echo "Today is Friday";
+  
+  break;
+  
+  case "Sat":
+  echo "Today is saturday";
+  
+  break;
+  
+  default:
+  
+  echo "this is an error ";
+}
+
+?>
+
+</body>
+</html>
