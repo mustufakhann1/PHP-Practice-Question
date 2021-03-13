@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$mustufa="20"; 
+$father="40";
+
+if ($mustufa=="20")
+				{
+			echo "No operation";
+}
+
+
+?>
+
+</body>
+</html>
