@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a= array (20,21,22,23,24,25);
+
+switch ($a[0])
+
+{
+  case 20:
+  echo "mustufa age is 20";
+  
+  break;
+  
+  case 21:
+  echo "mustufa age is 21";
+  
+  break;
+  case 22:
+  echo "mustufa age is 22";
+  
+  break;
+  case 23:
+  echo "mustufa age is 23";
+  
+  break;
+  
+  case 24:
+  echo "mustufa age is 24";
+  
+  break;
+  
+  case 25:
+  echo "mustufa age is 25";
+  
+  break;
+  
+  default:
+  
+  echo "this is an error ";
+}
+
+?>
+
+</body>
+</html>
