@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a= array("mustufa" => "mustufa", "gaurav" => "mustufa");
+
+
+switch ($a["mustufa"])
+
+{
+  case "mustufa":
+  echo "Today is Monday";
+  
+  break;
+  
+  case 2:
+  echo "Today is Tuesday";
+  
+  break;
+  case 3:
+  echo "Today is wednesday";
+  
+  break;
+  case 4:
+  echo "Today is thursday";
+  
+  break;
+  
+  case 5:
+  echo "Today is Friday";
+  
+  break;
+  
+  case 6:
+  echo "Today is saturday";
+  
+  break;
+  
+  default:
+  
+  echo "this is an error ";
+}
+
+?>
+
+</body>
+</html>
