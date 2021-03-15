@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = array ("one"=>"mustufa" ,"two"=>"gourav");
+
+switch ($a["two"])
+
+{
+case "gourav":
+echo "Gourav is a PHP developer";
+}
+?>
+
+</body>
+</html>
