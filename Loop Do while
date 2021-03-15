@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$one =1;
+$three =13;
+
+do 
+{
+ echo $one*$three."<br>";
+ $one++;
+}while($one<=10)
+
+?>
+
+</body>
+</html>
