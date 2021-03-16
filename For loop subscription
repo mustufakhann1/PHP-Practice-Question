@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = 4;
+
+
+for ($b=10; $b>=1; $b--){
+echo $a*$b ."<br>";
+
+}
+
+
+
+?>
+
+</body>
+</html>
