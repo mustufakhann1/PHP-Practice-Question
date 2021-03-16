@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$one =10;
+$three =9;
+
+while($one>=1){
+ echo $three*$one."<br>";
+ $one--;
+}
+
+?>
+
+</body>
+</html>
