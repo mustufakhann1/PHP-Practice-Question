@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$income = array (   
+    "indore"=> array(
+    "hospital"=>array(
+      "staff"=> array(
+        "doctors"=>array(
+          "doctor_work"=>array(
+            "name"=>"mustufa",
+            "salary"=>"10000",
+            "address"=>"Bombay hospital",
+            "time"=>"10 to 7"
+              
+            
+          ),
+        )
+      )
+    )
+  ),
+  "indore1"=> array(
+    "hospital"=>array(
+      "staff"=> array(
+        "doctors"=>array(
+          "doctor_work"=>array(
+            "doctor_name"=>array(
+              "doctor_salery"=>200000
+            )
+          )
+        )
+      )
+    )
+  )
+
+);
+       
+              
+       echo "Doctor name : ".$income ["indore"]["hospital"]["staff"]["doctors"]["doctor_work"]["name"]."<br>";
+       echo "Doctor Address : ".$income ["indore"]["hospital"]["staff"]["doctors"]["doctor_work"]["address"]."<br>";
+       echo "Doctor Salary : ".$income ["indore"]["hospital"]["staff"]["doctors"]["doctor_work"]["salary"]."<br>";
+       
+
+?>
+
+</body>
+</html>
