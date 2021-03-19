@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$income = array ( "indore"=> array(
+									"hospital"=>array(
+                                    "staff"=> array(
+                                    "doctors"=>array(
+                                    "doctor_work"=>array(
+                                    "doctor_name"=>array(
+                                    "doctor_salery"=>"100000"
+                                    )
+                                    )
+                                    )
+                                    )
+                                    )
+                                    )
+
+
+				);
+       
+       echo $income ["indore"]["hospital"]["staff"]["doctors"]						["doctor_work"]["doctor_name"]									["doctor_salery"];
+
+?>
+
+</body>
+</html>
