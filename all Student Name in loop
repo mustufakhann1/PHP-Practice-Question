@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  $data = array( array(
+    "school"=> array (
+      "class"=>array(
+        "Name"=>"Mustufa"
+      )
+
+    )
+
+  ),
+
+                array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Arshad"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Arzan"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Faiz"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Alia"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Tasmiya"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Iram "
+                    )
+
+                  )
+
+                ),
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Adnan"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Shahid"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Ibrahim"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Alfaiz"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Mubbashera"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Hafiza"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Aakifa"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Areeb"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"shaheem"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Ahmed"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Zaheen"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Aabid"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"asma"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Mubbashir"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Ayan"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Amreen"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Yashfeen"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Shoeb"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"aziz"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Sharique"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Sachin"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Sunny"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Saqib"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Farhan"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Poul"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Swatantr"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Aarti"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Owes"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Afzal"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"sami"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Harish"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Aasim"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Mohsin"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Bilal"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Faraz"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Aman"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Faizan"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Tohid"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Aarif"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Sahil"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Adnan"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Sonu"
+                    )
+
+                  )
+
+                ),
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Monu"
+                    )
+
+                  )
+
+                ),
+                
+                
+                   array(
+                  "school"=> array (
+                    "class"=>array(
+                      "Name"=>"Ertugrul"
+                    )
+
+                  )
+
+                ),
+
+               );
+
+for ($indore=0; $indore<=50;$indore++){
+  echo "Student Name :".$data [$indore]["school"]["class"]["Name"]."<br>";
+}
+?>
+
+</body>
+</html>
