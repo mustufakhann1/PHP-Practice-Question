@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+   <body>
+      <?php
+         $M = array (
+         			 array(
+                     "Name"=>"Mustufa",
+                     "sirname"=>"khan"
+                     ),
+                     
+                     array(
+                     "Name"=>"Alfaiz",
+                     "sirname"=>"khan"
+                     )
+         );
+         
+         for ($i=0;$i<1;$i++){
+         
+         if ($M[$i]["Name"]=="alfaiz"){
+         
+         echo "Big Brother"."<br>";
+         }else{
+         
+         echo "Small Brother"."<br>";
+         }
+         }
+         ?>
+   </body>
+</html>
