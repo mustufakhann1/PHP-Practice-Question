@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+   <body>
+      <?php
+         $M = array (5,10,15,20);
+         
+         for ($i=0;$i<4;$i++){
+         
+         if ($M[$i]<=5){
+         
+         echo "Value is Equal to Five"."<br>";
+         }else{
+         
+         echo "Value is not equal to Five"."<br>";
+         }
+         }
+         ?>
+   </body>
+</html>
