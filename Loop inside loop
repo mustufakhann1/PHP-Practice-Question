@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  $data = array( array(
+    "school"=> array (
+      "class"=>array(
+        "mustufa", "is" , "a", "PHP","developer"
+        
+      )
+
+    )
+
+  ),
+  
+   array(
+    "school"=> array (
+      "class"=>array(
+        "Faiz", "is" , "a", "react","developer"
+        
+      )
+
+    )
+
+  ),
+
+               );
+
+for ($detail=0; $detail<=1;$detail++){
+
+
+for($sen=0; $sen<=4;$sen++){
+echo $data [$detail]["school"]["class"]["$sen"];
+}
+}
+?>
+
+</body>
+</html>
