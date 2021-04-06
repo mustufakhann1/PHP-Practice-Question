@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a="abc.abc.123@gmail.com";
+
+$b= explode (".", $a);
+$length= sizeof($b);
+
+for($i=0;$i<$length;$i++){
+echo $b[$i]."<br>";
+}
+?>
+</body>
+</html>
